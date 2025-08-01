@@ -1,0 +1,13 @@
+libraries
+
+pip install xhtml2pdf
+pip install tqdm
+pip freeze
+pip install django
+
+run project command
+
+python manage.py runserver
+
+
+
